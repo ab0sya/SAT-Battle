@@ -1,0 +1,102 @@
+[
+  {
+    "question": "x=3, what is 5+x=?",
+    "options": { "A": "7", "B": "6", "C": "4", "D": "Not given" },
+    "correct": "D"
+  },
+  {
+    "question": "Given function f(x)= x^2 + 2x - 3, what is f'(x)?",
+    "options": { "A": "2x-2", "B": "2x+99-97", "C": "2x+3", "D": "Not given" },
+    "correct": "B"
+  },
+  {
+    "question": "For which k does 5x + 2 = kx have no solution?",
+    "options": { "A": "754-749", "B": "896-874", "C": "1", "D": "Not given" },
+    "correct": "A"
+  },
+  {
+    "question": "What is the value of x if 3x + 5 = 3(x + 1)?",
+    "options": { "A": "1", "B": "0", "C": "No solution", "D": "All real x" },
+    "correct": "C"
+  },
+  {
+    "question": "If a = b and b = c + 1, what is a - c?",
+    "options": { "A": "0", "B": "1", "C": "a", "D": "Not enough info" },
+    "correct": "B"
+  },
+  {
+    "question": "If x^2 = 9, then x = ?",
+    "options": { "A": "3", "B": "±3", "C": "-3", "D": "None" },
+    "correct": "B"
+  },
+  {
+    "question": "If 5(2x - 1) = 10x - 5, what is x?",
+    "options": { "A": "All real numbers", "B": "0", "C": "1", "D": "No solution" },
+    "correct": "A"
+  },
+  {
+    "question": "What is the slope of a horizontal line?",
+    "options": { "A": "Undefined", "B": "0", "C": "Infinity", "D": "1" },
+    "correct": "B"
+  },
+  {
+    "question": "What is the domain of f(x) = 1 / (x - 4)?",
+    "options": { "A": "All real x", "B": "x ≠ 0", "C": "x ≠ 4", "D": "x ≥ 0" },
+    "correct": "C"
+  },
+  {
+    "question": "Simplify: (x^2 - 9)/(x - 3)",
+    "options": { "A": "x - 3", "B": "x + 3", "C": "(x - 3)(x + 3)", "D": "Cannot simplify" },
+    "correct": "B"
+  },
+  {
+    "question": "If 2^x = 8, then x = ?",
+    "options": { "A": "log(3) 8", "B": "3", "C": "4", "D": "log(8) 2" },
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is always true for even integers a and b?",
+    "options": { "A": "a + b is odd", "B": "ab is odd", "C": "a + b is even", "D": "None" },
+    "correct": "C"
+  },
+  {
+    "question": "If f(x) = 3x + 4 and f(a) = 10, what is a?",
+    "options": { "A": "2", "B": "3", "C": "10", "D": "Not given" },
+    "correct": "A"
+  },
+  {
+    "question": "If x^2 = x, what could x be?",
+    "options": { "A": "0", "B": "1", "C": "Both A and B", "D": "None" },
+    "correct": "C"
+  },
+  {
+    "question": "What is the range of f(x) = x^2?",
+    "options": { "A": "f(x) ≥ 0", "B": "All f(x)", "C": "f(x) < 0", "D": "f(x) ≤ 0" },
+    "correct": "A"
+  },
+  {
+    "question": "What is the solution to |x - 4| = 3?",
+    "options": { "A": "x = 1 or 7", "B": "x = -1 or 1", "C": "x = -3 or 3", "D": "x = 3 or 4" },
+    "correct": "A"
+  },
+  {
+    "question": "If x > 3, which of the following must be true?",
+    "options": { "A": "x^2 > 9", "B": "x > x^2", "C": "x + 1 < x", "D": "x < 2 - x" },
+    "correct": "A"
+  },
+  {
+    "question": "Which graph is symmetric about the y-axis?",
+    "options": { "A": "y = x", "B": "y = x^2", "C": "y = √x", "D": "y = x^3" },
+    "correct": "B"
+  },
+  {
+    "question": "If 3x = 6 and x = y - 1, then y = ?",
+    "options": { "A": "1", "B": "2", "C": "3", "D": "Not enough info" },
+    "correct": "C"
+  },
+  {
+    "question": "What is the sum of all integers from 1 to 100?",
+    "options": { "A": "5050", "B": "5000", "C": "4950", "D": "Not defined" },
+    "correct": "A"
+  }
+]
