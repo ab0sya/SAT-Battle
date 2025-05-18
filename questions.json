@@ -98,5 +98,10 @@
     "question": "What is the sum of all integers from 1 to 100?",
     "options": { "A": "5050", "B": "5000", "C": "4950", "D": "Not defined" },
     "correct": "A"
+  },
+  {
+    "question": "A polygon has exactly 97 sides. If the measure of each of the 97 interior angles of the polygon is (180k)°, what is the value of k?",
+    "options": { "A": "5050", "B": "5000", "C": "4950", "D": "Not defined" },
+    "correct": "A"
   }
 ]
