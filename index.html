@@ -6,7 +6,8 @@
             body{
                 background-color: #8453DF;
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                color: white;
+                color: rgb(203, 203, 203);
+                text-align: center;
             }
             p{
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -23,9 +24,15 @@
                 margin: 20px;
                 text-align: center;
             }
-            .option { display: block; padding: 10px; border: 1px solid #9B69C9; margin: 5px; cursor: pointer; border-radius: 4px; background-color: #a470d5 ; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+            .option { display: block; padding: 10px; border: 3px solid #9B69C9; margin: 5px; cursor: pointer; border-radius: 4px; background-color: #a470d5 ; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
             .selected { background-color: #8343BC; border-color: #733ba4; }
-            .button{ text-align: center; padding: 10px;}
+            .button{ text-align: center; padding: 150px;}
+            .score{
+                font-size: 15px;
+                border: solid black 2px;
+                background-color: #8343BC;
+                padding: 15px;
+            }
         </style>
     </head>
 
@@ -35,7 +42,7 @@
   <h2 id="question" class="Question">Loading question...</h2>
   <div id="options" class="Question"></div>
   <p id="result"></p>
-  <p id="score">Score: 0</p>
+  <p id="score" class="score">Score: 0</p>
   <button onclick="submitAnswer()">Submit</button>
   <button onclick="loadNextQuestion()">Next</button>
 
