@@ -6,7 +6,7 @@
             body{
                 background-color: #8453DF;
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                color: rgb(203, 203, 203);
+                color: rgb(233, 231, 231);
                 text-align: center;
             }
             p{
@@ -30,8 +30,11 @@
             .score{
                 font-size: 15px;
                 border: solid black 2px;
-                background-color: #8343BC;
+                background-color: #bd85ef;
                 padding: 15px;
+            }
+            .result{
+                font-size: 18px;
             }
         </style>
     </head>
@@ -41,7 +44,7 @@
 
   <h2 id="question" class="Question">Loading question...</h2>
   <div id="options" class="Question"></div>
-  <p id="result"></p>
+  <p id="result" class="result"></p>
   <p id="score" class="score">Score: 0</p>
   <button onclick="submitAnswer()">Submit</button>
   <button onclick="loadNextQuestion()">Next</button>
